@@ -1,0 +1,498 @@
+{
+  "timestamp": 1793291692.7360804,
+  "data": {
+    "symbol": "TMCV",
+    "company_name": "Tata Motors Ltd",
+    "about": "Founded in 1945, Tata Motors Ltd is one of India's largest automobile manufacturers and a part of the Tata Group.[1]",
+    "ratios_top": {
+      "Market Cap": "₹         1,47,404                    Cr.",
+      "Current Price": "₹         400",
+      "High / Low": "₹ 509 / 306",
+      "Stock P/E": "20.6",
+      "Book Value": "₹         41.5",
+      "Dividend Yield": "1.00                    %",
+      "ROCE": "35.9                    %",
+      "ROE": "34.0                    %",
+      "Face Value": "₹         2.00"
+    },
+    "quarterly_results": {
+      "headers": [
+        "Sep 2024",
+        "Dec 2024",
+        "Mar 2025",
+        "Jun 2025",
+        "Sep 2025",
+        "Dec 2025",
+        "Mar 2026",
+        "Jun 2026",
+        "Sep 2026"
+      ],
+      "rows": {
+        "Sales": [
+          17535.0,
+          18819.0,
+          21863.0,
+          17324.0,
+          18585.0,
+          21847.0,
+          26098.0,
+          20667.0,
+          25338.0
+        ],
+        "Expenses": [
+          15828.0,
+          16786.0,
+          19432.0,
+          15248.0,
+          16553.0,
+          19260.0,
+          22771.0,
+          18530.0,
+          22690.0
+        ],
+        "Operating Profit": [
+          1707.0,
+          2033.0,
+          2431.0,
+          2076.0,
+          2032.0,
+          2587.0,
+          3327.0,
+          2137.0,
+          2648.0
+        ],
+        "OPM %": [
+          10.0,
+          11.0,
+          11.0,
+          12.0,
+          11.0,
+          12.0,
+          13.0,
+          10.0,
+          10.0
+        ],
+        "Other Income": [
+          206.0,
+          407.0,
+          72.0,
+          332.0,
+          -1865.0,
+          -981.0,
+          -28.0,
+          1476.0,
+          -11.0
+        ],
+        "Interest": [
+          408.0,
+          352.0,
+          319.0,
+          254.0,
+          256.0,
+          198.0,
+          166.0,
+          135.0,
+          100.0
+        ],
+        "Depreciation": [
+          541.0,
+          557.0,
+          592.0,
+          480.0,
+          472.0,
+          483.0,
+          510.0,
+          508.0,
+          539.0
+        ],
+        "Profit before tax": [
+          964.0,
+          1531.0,
+          1592.0,
+          1674.0,
+          -561.0,
+          925.0,
+          2623.0,
+          2970.0,
+          1998.0
+        ],
+        "Tax %": [
+          48.0,
+          12.0,
+          16.0,
+          17.0,
+          55.0,
+          24.0,
+          32.0,
+          14.0,
+          37.0
+        ],
+        "Net Profit": [
+          498.0,
+          1355.0,
+          1340.0,
+          1397.0,
+          -867.0,
+          705.0,
+          1793.0,
+          2556.0,
+          1254.0
+        ],
+        "EPS in Rs": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          1.91,
+          4.87,
+          6.95,
+          3.41
+        ],
+        "Raw PDF": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "profit_loss": {
+      "headers": [
+        "Mar 2025\n            \n            \n              10m",
+        "Mar 2026",
+        "TTM"
+      ],
+      "rows": {
+        "Sales": [
+          58217.0,
+          83855.0,
+          93950.0
+        ],
+        "Expenses": [
+          52045.0,
+          76238.0,
+          83251.0
+        ],
+        "Operating Profit": [
+          6172.0,
+          7617.0,
+          10699.0
+        ],
+        "OPM %": [
+          11.0,
+          9.0,
+          11.0
+        ],
+        "Other Income": [
+          685.0,
+          -135.0,
+          456.0
+        ],
+        "Interest": [
+          1079.0,
+          874.0,
+          599.0
+        ],
+        "Depreciation": [
+          1690.0,
+          1945.0,
+          2040.0
+        ],
+        "Profit before tax": [
+          4088.0,
+          4663.0,
+          8516.0
+        ],
+        "Tax %": [
+          22.0,
+          35.0,
+          null
+        ],
+        "Net Profit": [
+          3195.0,
+          3030.0,
+          6308.0
+        ],
+        "EPS in Rs": [
+          null,
+          8.23,
+          17.14
+        ],
+        "Dividend Payout %": [
+          0.0,
+          49.0,
+          null
+        ]
+      }
+    },
+    "balance_sheet": {
+      "headers": [
+        "Mar 2025",
+        "Mar 2026",
+        "Sep 2026"
+      ],
+      "rows": {
+        "Equity Capital": [
+          0.0,
+          736.0,
+          737.0
+        ],
+        "Reserves": [
+          10533.0,
+          11998.0,
+          14551.0
+        ],
+        "Borrowings": [
+          9925.0,
+          5615.0,
+          3780.0
+        ],
+        "Other Liabilities": [
+          26393.0,
+          33960.0,
+          38385.0
+        ],
+        "Total Liabilities": [
+          46851.0,
+          52309.0,
+          57453.0
+        ],
+        "Fixed Assets": [
+          13664.0,
+          13962.0,
+          15966.0
+        ],
+        "CWIP": [
+          1875.0,
+          2026.0,
+          674.0
+        ],
+        "Investments": [
+          5282.0,
+          13283.0,
+          12467.0
+        ],
+        "Other Assets": [
+          26030.0,
+          23038.0,
+          28346.0
+        ],
+        "Total Assets": [
+          46851.0,
+          52309.0,
+          57453.0
+        ]
+      }
+    },
+    "cash_flows": {
+      "headers": [
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Cash from Operating Activity": [
+          8547.0,
+          14981.0
+        ],
+        "Cash from Investing Activity": [
+          456.0,
+          -3892.0
+        ],
+        "Cash from Financing Activity": [
+          -7970.0,
+          -5223.0
+        ],
+        "Net Cash Flow": [
+          1033.0,
+          5866.0
+        ],
+        "Free Cash Flow": [
+          7005.0,
+          12878.0
+        ],
+        "CFO/EBITDA\n              \n              \n                \n                  \n\nShare of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+          139.0,
+          209.0
+        ]
+      }
+    },
+    "ratios": {
+      "headers": [
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Debtor Days": [
+          19.0,
+          12.0
+        ],
+        "Inventory Days": [
+          43.0,
+          35.0
+        ],
+        "Days Payable": [
+          134.0,
+          101.0
+        ],
+        "Cash Conversion Cycle": [
+          -72.0,
+          -54.0
+        ],
+        "Working Capital Days": [
+          -44.0,
+          -89.0
+        ],
+        "ROCE %": [
+          null,
+          36.0
+        ]
+      }
+    },
+    "documents": {
+      "concalls": [
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=303623c2-2641-4e81-8335-1c6f1f0187a1.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8006a3e6-fbcf-4c50-8b24-90499c74e0a8.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://cv.tatamotors.com/assets/cv/files/2026-10/Tata%20Motors%20Limited%20Q2%20FY27%20Earnings%20Call%20Recording.mp4"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cafeb07-b4c3-405c-bf40-f071ef9fdc2a.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d6811390-f13f-4512-ba90-c485f42bba13.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://cv.tatamotors.com/assets/cv/files/2026-08/Tata+Motors+Limited+Q1+FY27+Earnings+Call+Recording.mp4"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5715fdb0-e972-4e46-b3de-39aca7a034ab.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.youtube.com/watch?v=qrPHkITwX5M"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8750a2fe-b7eb-4623-a4e0-761ad925095d.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de2b8a83-d95f-4c72-a6b8-011f36cd4ecc.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://cv.tatamotors.com/assets/cv/files/2026-05/Q4+FY26+Earning+Call+Recording.mp4"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f6959c78-04b5-44bc-bfda-3e2841220bd9.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a3053a41-2c61-4a29-971e-91224e8f569b.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://cv.tatamotors.com/assets/cv/files/2026-01/Tata+Motors+Q3+FY26+earnings+call+recording+(1).mp4"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8f6f6fda-20e3-4603-a325-7b9d7de97051.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de69063f-f7db-4e86-948e-d57b85c6c447.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d32c4732-4350-4138-a3c8-16cff9d2b0e5.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://youtu.be/wGTMS-RfpQ0"
+            }
+          ]
+        }
+      ],
+      "annual_reports": [
+        {
+          "title": "Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c733587d-fcc8-432d-89fe-1e37630d8896.pdf"
+        }
+      ],
+      "announcements": [
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release\n\n          \n            27 Oct - TML CV Holdings reaches 89.42% of Iveco; offer unconditional, payment on 30 October 2026, reopening 2-6 November.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb4d0507-cdfe-4484-aa7c-e48969e27975.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript\n\n          \n            27 Oct - Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, we are enclosing herewith the transcript of the Earning Call on the Financial Results of …",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=303623c2-2641-4e81-8335-1c6f1f0187a1.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release\n\n          \n            27 Oct - Amazon and Tata Motors will deploy 3,000 electric trucks across India, starting in Delhi during festive season.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9feabc74-081f-477f-93ec-e1f168c2a827.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release\n\n          \n            27 Oct - Tata Motors' Iveco tender offer reached 89.42% acceptance; threshold condition satisfied, payment on 30 October 2026.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d6dd13d0-8e24-4dfa-91ab-721f0060d6f9.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication\n\n          \n            24 Oct - We are enclosing herewith the newspaper publication of the Financial Results of the Company for the second quarter and half year ended September 30, 2026.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1fb73c0-883e-4662-884c-35af6f45bfa3.pdf"
+        }
+      ]
+    },
+    "source_url": "https://www.screener.in/company/TMCV/consolidated/"
+  }
+}

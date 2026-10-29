@@ -1,0 +1,1108 @@
+{
+  "timestamp": 1793266640.3109248,
+  "data": {
+    "symbol": "HDFCAMC",
+    "company_name": "HDFC Asset Management Company Ltd",
+    "about": "Incorporated in 1999, HDFC Asset Management Company Ltd provides Fund Management Services[1]",
+    "ratios_top": {
+      "Market Cap": "₹         99,472                    Cr.",
+      "Current Price": "₹         2,318",
+      "High / Low": "₹ 2,902 / 2,206",
+      "Stock P/E": "33.4",
+      "Book Value": "₹         201",
+      "Dividend Yield": "2.33                    %",
+      "ROCE": "42.9                    %",
+      "ROE": "32.9                    %",
+      "Face Value": "₹         5.00"
+    },
+    "quarterly_results": {
+      "headers": [
+        "Sep 2023",
+        "Dec 2023",
+        "Mar 2024",
+        "Jun 2024",
+        "Sep 2024",
+        "Dec 2024",
+        "Mar 2025",
+        "Jun 2025",
+        "Sep 2025",
+        "Dec 2025",
+        "Mar 2026",
+        "Jun 2026",
+        "Sep 2026"
+      ],
+      "rows": {
+        "Sales": [
+          643.0,
+          671.0,
+          695.0,
+          775.0,
+          887.0,
+          935.0,
+          901.0,
+          968.0,
+          1027.0,
+          1075.0,
+          1052.0,
+          1100.0,
+          1170.0
+        ],
+        "Expenses": [
+          162.0,
+          162.0,
+          157.0,
+          181.0,
+          184.0,
+          171.0,
+          171.0,
+          195.0,
+          227.0,
+          199.0,
+          206.0,
+          249.0,
+          240.0
+        ],
+        "Operating Profit": [
+          481.0,
+          509.0,
+          539.0,
+          594.0,
+          703.0,
+          764.0,
+          730.0,
+          773.0,
+          801.0,
+          876.0,
+          845.0,
+          850.0,
+          930.0
+        ],
+        "OPM %": [
+          75.0,
+          76.0,
+          77.0,
+          77.0,
+          79.0,
+          82.0,
+          81.0,
+          80.0,
+          78.0,
+          82.0,
+          80.0,
+          77.0,
+          79.0
+        ],
+        "Other Income": [
+          122.0,
+          143.0,
+          156.0,
+          173.0,
+          171.0,
+          93.0,
+          124.0,
+          233.0,
+          96.0,
+          159.0,
+          12.0,
+          263.0,
+          71.0
+        ],
+        "Interest": [
+          2.0,
+          2.0,
+          2.0,
+          2.0,
+          2.0,
+          2.0,
+          3.0,
+          3.0,
+          3.0,
+          3.0,
+          4.0,
+          4.0,
+          4.0
+        ],
+        "Depreciation": [
+          13.0,
+          13.0,
+          13.0,
+          13.0,
+          14.0,
+          15.0,
+          17.0,
+          17.0,
+          18.0,
+          18.0,
+          19.0,
+          21.0,
+          21.0
+        ],
+        "Profit before tax": [
+          588.0,
+          637.0,
+          679.0,
+          752.0,
+          858.0,
+          840.0,
+          835.0,
+          986.0,
+          876.0,
+          1014.0,
+          834.0,
+          1089.0,
+          977.0
+        ],
+        "Tax %": [
+          26.0,
+          23.0,
+          20.0,
+          20.0,
+          33.0,
+          24.0,
+          24.0,
+          24.0,
+          18.0,
+          24.0,
+          25.0,
+          23.0,
+          23.0
+        ],
+        "Net Profit": [
+          437.0,
+          488.0,
+          541.0,
+          604.0,
+          577.0,
+          641.0,
+          638.0,
+          748.0,
+          718.0,
+          769.0,
+          623.0,
+          837.0,
+          749.0
+        ],
+        "EPS in Rs": [
+          10.22,
+          11.43,
+          12.67,
+          14.13,
+          13.5,
+          15.0,
+          14.93,
+          17.47,
+          16.79,
+          17.96,
+          14.53,
+          19.53,
+          17.45
+        ],
+        "Raw PDF": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "profit_loss": {
+      "headers": [
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "rows": {
+        "Sales": [
+          2478.0,
+          3160.0,
+          4051.0,
+          4616.0,
+          4397.0
+        ],
+        "Expenses": [
+          550.0,
+          627.0,
+          707.0,
+          827.0,
+          895.0
+        ],
+        "Operating Profit": [
+          1929.0,
+          2533.0,
+          3345.0,
+          3789.0,
+          3502.0
+        ],
+        "OPM %": [
+          78.0,
+          80.0,
+          83.0,
+          82.0,
+          80.0
+        ],
+        "Other Income": [
+          4.0,
+          4.0,
+          9.0,
+          6.0,
+          505.0
+        ],
+        "Interest": [
+          10.0,
+          9.0,
+          9.0,
+          13.0,
+          14.0
+        ],
+        "Depreciation": [
+          53.0,
+          52.0,
+          59.0,
+          73.0,
+          79.0
+        ],
+        "Profit before tax": [
+          1870.0,
+          2475.0,
+          3286.0,
+          3709.0,
+          3913.0
+        ],
+        "Tax %": [
+          24.0,
+          22.0,
+          25.0,
+          23.0,
+          null
+        ],
+        "Net Profit": [
+          1423.0,
+          1943.0,
+          2460.0,
+          2858.0,
+          2978.0
+        ],
+        "EPS in Rs": [
+          33.35,
+          45.5,
+          57.53,
+          66.71,
+          69.47
+        ],
+        "Dividend Payout %": [
+          72.0,
+          77.0,
+          78.0,
+          81.0,
+          null
+        ]
+      }
+    },
+    "balance_sheet": {
+      "headers": [
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "Sep 2026"
+      ],
+      "rows": {
+        "Equity Capital": [
+          107.0,
+          107.0,
+          107.0,
+          214.0,
+          215.0
+        ],
+        "Reserves": [
+          6001.0,
+          6968.0,
+          8023.0,
+          9015.0,
+          8403.0
+        ],
+        "Borrowings": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Other Liabilities": [
+          428.0,
+          479.0,
+          621.0,
+          763.0,
+          784.0
+        ],
+        "Total Liabilities": [
+          6536.0,
+          7554.0,
+          8751.0,
+          9991.0,
+          9402.0
+        ],
+        "Fixed Assets": [
+          150.0,
+          153.0,
+          198.0,
+          273.0,
+          271.0
+        ],
+        "CWIP": [
+          2.0,
+          1.0,
+          0.0,
+          2.0,
+          0.0
+        ],
+        "Investments": [
+          6076.0,
+          7156.0,
+          8255.0,
+          9362.0,
+          8711.0
+        ],
+        "Other Assets": [
+          307.0,
+          244.0,
+          297.0,
+          355.0,
+          420.0
+        ],
+        "Total Assets": [
+          6536.0,
+          7554.0,
+          8751.0,
+          9991.0,
+          9402.0
+        ]
+      }
+    },
+    "cash_flows": {
+      "headers": [
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Cash from Operating Activity": [
+          1149.0,
+          1615.0,
+          2075.0,
+          2528.0
+        ],
+        "Cash from Investing Activity": [
+          -217.0,
+          -543.0,
+          -598.0,
+          -643.0
+        ],
+        "Cash from Financing Activity": [
+          -930.0,
+          -1066.0,
+          -1475.0,
+          -1886.0
+        ],
+        "Net Cash Flow": [
+          3.0,
+          6.0,
+          2.0,
+          -1.0
+        ],
+        "Free Cash Flow": [
+          1135.0,
+          1596.0,
+          2030.0,
+          2506.0
+        ],
+        "CFO/EBITDA\n              \n              \n                \n                  \n\nShare of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+          81.0,
+          85.0,
+          83.0,
+          88.0
+        ]
+      }
+    },
+    "ratios": {
+      "headers": [
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Debtor Days": [
+          27.0,
+          11.0,
+          12.0,
+          13.0
+        ],
+        "Inventory Days": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "Days Payable": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "Cash Conversion Cycle": [
+          27.0,
+          11.0,
+          12.0,
+          13.0
+        ],
+        "Working Capital Days": [
+          -4.0,
+          -18.0,
+          -14.0,
+          -16.0
+        ],
+        "ROCE %": [
+          null,
+          38.0,
+          43.0,
+          43.0
+        ]
+      }
+    },
+    "documents": {
+      "concalls": [
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5b6cfc41-d069-497f-a473-433a667fab8b.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eeddc2ea-4793-41df-88fc-b09e41cd0585.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://files.hdfcfund.com/s3fs-public/2026-10/Q2%20FY27%20Audio%20Recording%20of%20the%20Earnings%20Call.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69974142-160a-4d8c-8c66-28d1f0769c77.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbfe25a8-f315-4e38-bf7b-a73b57463123.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://files.hdfcfund.com/s3fs-public/2026-07/Q1%20FY27%20Audio%20Recording%20of%20the%20Earnings%20Call.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=988afa1b-34d6-46ed-a41c-541db589948e.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=af251812-68f1-4cf3-91fa-005977d76050.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://files.hdfcfund.com/s3fs-public/2026-04/Q4%20FY26%20Audio%20Recording%20of%20the%20Earnings%20Call.mp3?_gl=1*6sr9jz*_gcl_au*NjA2MDQyNDY4LjE3NzY0MDAzMzM."
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f06741b3-e8ab-4cce-8b7b-efd2c22dec40.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a12e3bb-8a31-46df-969a-1705eef22c86.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://youtu.be/AvutFDoR8jY"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e781bc11-71bc-48c8-b8db-474ce3ca203a.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c60a09e1-16b4-45d6-bb26-43f535e5b7f8.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://youtu.be/xyhn3eqMdeA"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b6be84ee-d5fc-44f3-b050-a6e6c5114ca5.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=39005259-2aa4-4d22-8289-5158ea596a5b.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://youtu.be/Z_0IhpjSH0I?si=AhRyQnpn6H8UN2S9"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=98fefa7f-e3fd-4aa9-8d06-ebb311e61cef.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a4e8608-f847-43da-b4f6-48da4984952f.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.youtube.com/watch?v=sVQxoMcZxMo"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f1e47005-deea-423d-88ce-10f70edcc304.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a8522ad2-72b9-4d78-85ad-06eca7f03c35.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=98f7af3a-04c6-4933-9065-7b2900687b60.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed604b92-8e3c-42b5-9154-9ea6b8010159.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c8ae5092-3587-4519-8832-82594db12d98.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ecec2762-349b-42f6-a47f-c5935e28c22e.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.hdfcfund.com/about-us/financial-information/shareholder-presentation"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a195cd7-6b51-4576-897e-de0b237d1336.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4304acbf-1028-4943-b37a-a2fe1983b121.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://files.hdfcfund.com/s3fs-public/2024-04/Q4%20FY24%20Audio%20Recording%20of%20the%20Earnings%20Call.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42fa80af-195e-4354-9031-ead7a39b0fd8.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cddb1fc9-0e46-4d13-a335-bc66b0e9fe63.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c8bec481-ea9f-4065-95ec-986b20e8ac7f.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e949ff5d-b73a-4144-bb37-526035107ef4.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=04e839cb-4bea-4de8-83c1-29dd9eb84172.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0289ef7d-b71f-4b2e-9b99-9209faf689d5.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a530d7aa-e982-4fb7-977f-5bacb3314a73.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=54978146-5aae-49e4-b217-c48a3cc74e08.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ff25b190-8993-4bb8-b041-ac537963be01.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b6bb8dd-4a34-4a67-8674-6f7fdef3a189.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=db19716e-b2aa-4236-80b4-03aec0d90eb2.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=35266b78-185c-4a80-886b-955dc01947a3.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87d7ea07-6c88-4fcc-a82c-4c8e06f11546.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b083e5d-b9d4-479b-b162-4274621bd695.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73b0c995-7ef6-460d-949d-107d89acb01c.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6f576d20-8482-45f0-a3a3-cde8c5cd64b7.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69fb4924-cd9e-4e8c-8d8f-0d0cca5c9321.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=406b877f-953a-4eb5-a32f-fcf888406a1a.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a4cbc325-a52a-4994-b651-259fa10cb6a0.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01f0901b-feb6-4b94-a7e6-81c754833f98.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=14c03ada-8183-41d1-b19e-20a893176bfb.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=47da9691-83ee-4dd7-9dfc-c6d138c20b0a.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8619d40e-c73b-429d-9232-e7bd6a93acf2.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7342bd64-fc9f-4272-b7a4-c31d7cb7b7c7.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f668b916-4b22-46e8-91c9-c24836dae910.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2021-05/Q4FY21%20Transcript_0.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b5d92ca-e17e-4335-8d7c-d0fc02c726e1.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b00a4f5-69ed-412f-ba8d-8de6d1d24988.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2021-01/Q3FY21%20Transcript_0.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=048e35da-5a84-4520-b611-7161feb6f75d.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2020-11/Q2FY21%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78b597d0-7511-4694-b6f2-5fdcd4aca7c0.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2020-08/IIFLSec-HDFCAMC-Jul23-2020%20%282%29.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b89ec59a-e071-49af-ac0a-ffed4279b8fc.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2020-05/Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=823878ef-4664-4a3f-b586-e147493c50b5.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2020-01/JMFin-HDFCAMC-21Jan-2020%20SF.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1df3cfca-6c61-4843-a4e0-644209273628.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=271965d6-1c92-418f-a49f-8dc3e9079863.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb580957-0b66-497d-ab22-7064d07072ff.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2019-11/Call%20Transcript%20-%20Q2FY20_0.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ad956d4-80ae-468e-ab0e-f9901f15ac03.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2019-07/MorganStanley-HDFCEarnings-July16-2019%20S_0.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d8379079-611f-4990-80c0-7b4eb31be214.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2019-05/Q4FY19%20Call%20Transcript%20-%20Website.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b8a36bca-a158-40c2-8c93-c0857c63f0c6.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2019-01/Q3FY19%20Call%20Transcript%20-%20Website.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=19d6ac14-dd5f-4638-9321-b63a25790c74.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2018-11/Q2FY19%20Conference%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fff4aeb4-625f-4785-877a-c8384222cb0c.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=da8f8fbd-6c14-4ef2-b492-b247becfd99b.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://files.hdfcfund.com/s3fs-public/2018-08/HDFCAMC%20Q1FY19%20Conference%20Call%20Transcript_0.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c126066a-0dd3-4832-ba46-464cdb4c914e.pdf"
+            }
+          ]
+        }
+      ],
+      "annual_reports": [
+        {
+          "title": "Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fdf831f5-7d3a-4621-bcf9-483c1bcbfc88.pdf"
+        },
+        {
+          "title": "Annual Report 2025",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/81c51f62-8b31-48f9-a1d3-18ac58246b58.pdf"
+        },
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/eed717df-23ba-4b6e-9bcc-153cd926c96e.pdf"
+        },
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/029858f6-0a14-4064-8e1e-65e217b154c9.pdf"
+        },
+        {
+          "title": "Annual Report 2022",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/541729/73154541729.pdf"
+        },
+        {
+          "title": "Annual Report 2021",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/541729/68615541729.pdf"
+        },
+        {
+          "title": "Annual Report 2020",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/541729/5417290320.pdf"
+        },
+        {
+          "title": "Annual Report 2019",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/541729/5417290319.pdf"
+        },
+        {
+          "title": "Annual Report 2008",
+          "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2008/HDFC_ASSET_MGMT_CO_LTD-541729-MARCH-2008.PDF"
+        },
+        {
+          "title": "Annual Report 2007",
+          "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2007/HDFC_ASSET_MGMT_CO_LTD-541729-MARCH-2007.PDF"
+        },
+        {
+          "title": "Annual Report 2002",
+          "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2002/HDFC_ASSET_MGMT_CO_LTD-541729-MARCH-2002.PDF"
+        },
+        {
+          "title": "Annual Report 2001",
+          "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2001/HDFC_ASSET_MGMT_CO_LTD-541729-MARCH-2001.PDF"
+        },
+        {
+          "title": "DRHP",
+          "url": "https://www.sebi.gov.in/filings/public-issues/aug-2018/hdfc-asset-management-company-limited_39851.html"
+        }
+      ],
+      "announcements": [
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\n\n          \n            22 Oct - Allotment of Equity shares pursuant to Employee Stock Option Scheme",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=66c3194d-a576-4b70-bb8b-f821f7cd4af0.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript\n\n          \n            21 Oct",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5b6cfc41-d069-497f-a473-433a667fab8b.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\n\n          \n            16 Oct - Intimation of Investor/analyst meeting/conference - Schedule of Meet - Non-deal roadshow",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f504289-fbc6-4533-9b86-85ed687986b4.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication\n\n          \n            16 Oct",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea2743f9-066c-43bb-88a6-31324739db7b.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome\n\n          \n            15 Oct - Q2 FY27 earnings call audio recording uploaded on October 15, 2026.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eb96caed-9201-44aa-a157-6ca79a00f3ef.pdf"
+        }
+      ]
+    },
+    "source_url": "https://www.screener.in/company/HDFCAMC/consolidated/"
+  }
+}

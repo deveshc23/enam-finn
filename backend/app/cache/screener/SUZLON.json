@@ -1,0 +1,1306 @@
+{
+  "timestamp": 1793266637.7426648,
+  "data": {
+    "symbol": "SUZLON",
+    "company_name": "Suzlon Energy Ltd",
+    "about": "Suzlon Energy Limited is a wind-first group spanning turbine technology/manufacturing, project development/execution, and renewable-asset O&M. It has installed 22+ GW across 17 countries; key subsidiaries include Suzlon Global Services, SE Forge, and Renom. [1]",
+    "ratios_top": {
+      "Market Cap": "₹         50,427                    Cr.",
+      "Current Price": "₹         37.0",
+      "High / Low": "₹ 61.5 / 36.3",
+      "Stock P/E": "16.0",
+      "Book Value": "₹         6.96",
+      "Dividend Yield": "0.00                    %",
+      "ROCE": "34.2                    %",
+      "ROE": "39.7                    %",
+      "Face Value": "₹         2.00"
+    },
+    "quarterly_results": {
+      "headers": [
+        "Jun 2023",
+        "Sep 2023",
+        "Dec 2023",
+        "Mar 2024",
+        "Jun 2024",
+        "Sep 2024",
+        "Dec 2024",
+        "Mar 2025",
+        "Jun 2025",
+        "Sep 2025",
+        "Dec 2025",
+        "Mar 2026",
+        "Jun 2026"
+      ],
+      "rows": {
+        "Sales": [
+          1351.0,
+          1421.0,
+          1560.0,
+          2196.0,
+          2022.0,
+          2103.0,
+          2975.0,
+          3790.0,
+          3132.0,
+          3871.0,
+          4236.0,
+          5493.0,
+          3829.0
+        ],
+        "Expenses": [
+          1152.0,
+          1196.0,
+          1313.0,
+          1839.0,
+          1652.0,
+          1809.0,
+          2475.0,
+          3096.0,
+          2533.0,
+          3150.0,
+          3498.0,
+          4529.0,
+          3234.0
+        ],
+        "Operating Profit": [
+          199.0,
+          225.0,
+          248.0,
+          357.0,
+          370.0,
+          294.0,
+          500.0,
+          693.0,
+          599.0,
+          721.0,
+          738.0,
+          964.0,
+          595.0
+        ],
+        "OPM %": [
+          15.0,
+          16.0,
+          16.0,
+          16.0,
+          18.0,
+          14.0,
+          17.0,
+          18.0,
+          19.0,
+          19.0,
+          17.0,
+          18.0,
+          16.0
+        ],
+        "Other Income": [
+          19.0,
+          -28.0,
+          9.0,
+          -16.0,
+          23.0,
+          18.0,
+          28.0,
+          35.0,
+          33.0,
+          27.0,
+          23.0,
+          97.0,
+          33.0
+        ],
+        "Interest": [
+          62.0,
+          44.0,
+          14.0,
+          44.0,
+          45.0,
+          56.0,
+          70.0,
+          85.0,
+          103.0,
+          110.0,
+          114.0,
+          135.0,
+          134.0
+        ],
+        "Depreciation": [
+          55.0,
+          51.0,
+          39.0,
+          44.0,
+          46.0,
+          54.0,
+          66.0,
+          93.0,
+          70.0,
+          75.0,
+          80.0,
+          93.0,
+          106.0
+        ],
+        "Profit before tax": [
+          101.0,
+          102.0,
+          203.0,
+          253.0,
+          302.0,
+          202.0,
+          391.0,
+          551.0,
+          459.0,
+          562.0,
+          567.0,
+          833.0,
+          389.0
+        ],
+        "Tax %": [
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.0,
+          0.0,
+          1.0,
+          -114.0,
+          29.0,
+          -127.0,
+          21.0,
+          -34.0,
+          22.0
+        ],
+        "Net Profit": [
+          101.0,
+          102.0,
+          203.0,
+          254.0,
+          302.0,
+          201.0,
+          388.0,
+          1181.0,
+          324.0,
+          1279.0,
+          445.0,
+          1114.0,
+          305.0
+        ],
+        "EPS in Rs": [
+          0.08,
+          0.08,
+          0.15,
+          0.19,
+          0.22,
+          0.15,
+          0.29,
+          0.87,
+          0.24,
+          0.94,
+          0.33,
+          0.82,
+          0.22
+        ],
+        "Raw PDF": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "profit_loss": {
+      "headers": [
+        "Mar 2015",
+        "Mar 2016",
+        "Mar 2017",
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "rows": {
+        "Sales": [
+          19954.0,
+          9483.0,
+          12714.0,
+          8116.0,
+          5025.0,
+          2973.0,
+          3346.0,
+          6582.0,
+          5971.0,
+          6529.0,
+          10890.0,
+          16732.0,
+          17429.0
+        ],
+        "Expenses": [
+          25703.0,
+          9767.0,
+          10235.0,
+          7140.0,
+          5048.0,
+          3829.0,
+          2809.0,
+          5682.0,
+          5137.0,
+          5492.0,
+          9026.0,
+          13707.0,
+          14411.0
+        ],
+        "Operating Profit": [
+          -5749.0,
+          -283.0,
+          2479.0,
+          977.0,
+          -23.0,
+          -856.0,
+          537.0,
+          900.0,
+          833.0,
+          1037.0,
+          1863.0,
+          3025.0,
+          3019.0
+        ],
+        "OPM %": [
+          -29.0,
+          -3.0,
+          20.0,
+          12.0,
+          -0.5,
+          -29.0,
+          16.0,
+          14.0,
+          14.0,
+          16.0,
+          17.0,
+          18.0,
+          17.0
+        ],
+        "Other Income": [
+          -194.0,
+          2563.0,
+          109.0,
+          555.0,
+          92.0,
+          -42.0,
+          823.0,
+          95.0,
+          2739.0,
+          -24.0,
+          97.0,
+          178.0,
+          180.0
+        ],
+        "Interest": [
+          2065.0,
+          1304.0,
+          1288.0,
+          1581.0,
+          1270.0,
+          1367.0,
+          996.0,
+          735.0,
+          421.0,
+          164.0,
+          255.0,
+          462.0,
+          493.0
+        ],
+        "Depreciation": [
+          809.0,
+          392.0,
+          389.0,
+          342.0,
+          342.0,
+          419.0,
+          258.0,
+          260.0,
+          260.0,
+          190.0,
+          259.0,
+          318.0,
+          354.0
+        ],
+        "Profit before tax": [
+          -8816.0,
+          584.0,
+          912.0,
+          -391.0,
+          -1543.0,
+          -2684.0,
+          105.0,
+          0.0,
+          2892.0,
+          659.0,
+          1447.0,
+          2422.0,
+          2352.0
+        ],
+        "Tax %": [
+          4.0,
+          -4.0,
+          1.0,
+          -0.0,
+          -1.0,
+          0.0,
+          4.0,
+          41648.0,
+          0.0,
+          -0.0,
+          -43.0,
+          -31.0,
+          null
+        ],
+        "Net Profit": [
+          -9133.0,
+          583.0,
+          852.0,
+          -384.0,
+          -1537.0,
+          -2692.0,
+          104.0,
+          -177.0,
+          2887.0,
+          660.0,
+          2072.0,
+          3163.0,
+          3144.0
+        ],
+        "EPS in Rs": [
+          -19.95,
+          0.94,
+          1.38,
+          -0.57,
+          -2.32,
+          -4.01,
+          0.1,
+          -0.17,
+          2.28,
+          0.49,
+          1.53,
+          2.33,
+          2.31
+        ],
+        "Dividend Payout %": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          null
+        ]
+      }
+    },
+    "balance_sheet": {
+      "headers": [
+        "Mar 2015",
+        "Mar 2016",
+        "Mar 2017",
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Equity Capital": [
+          742.0,
+          1004.0,
+          1005.0,
+          1064.0,
+          1064.0,
+          1064.0,
+          1702.0,
+          1843.0,
+          2454.0,
+          2722.0,
+          2732.0,
+          2745.0
+        ],
+        "Reserves": [
+          -8064.0,
+          -8537.0,
+          -7846.0,
+          -8031.0,
+          -9562.0,
+          -12047.0,
+          -5045.0,
+          -5369.0,
+          -1355.0,
+          1199.0,
+          3374.0,
+          6719.0
+        ],
+        "Borrowings": [
+          17811.0,
+          11414.0,
+          11114.0,
+          11996.0,
+          11552.0,
+          13210.0,
+          6925.0,
+          6465.0,
+          1938.0,
+          150.0,
+          323.0,
+          556.0
+        ],
+        "Other Liabilities": [
+          11243.0,
+          5842.0,
+          7887.0,
+          6092.0,
+          5816.0,
+          4303.0,
+          3019.0,
+          3535.0,
+          2486.0,
+          3108.0,
+          6531.0,
+          8850.0
+        ],
+        "Total Liabilities": [
+          21731.0,
+          9723.0,
+          12160.0,
+          11121.0,
+          8871.0,
+          6530.0,
+          6601.0,
+          6475.0,
+          5523.0,
+          7179.0,
+          12960.0,
+          18869.0
+        ],
+        "Fixed Assets": [
+          5843.0,
+          1573.0,
+          1665.0,
+          1463.0,
+          1520.0,
+          1358.0,
+          1166.0,
+          1059.0,
+          866.0,
+          886.0,
+          1780.0,
+          2296.0
+        ],
+        "CWIP": [
+          356.0,
+          233.0,
+          206.0,
+          353.0,
+          229.0,
+          122.0,
+          107.0,
+          20.0,
+          6.0,
+          20.0,
+          105.0,
+          190.0
+        ],
+        "Investments": [
+          266.0,
+          393.0,
+          670.0,
+          67.0,
+          20.0,
+          20.0,
+          23.0,
+          0.0,
+          0.0,
+          8.0,
+          43.0,
+          217.0
+        ],
+        "Other Assets": [
+          15266.0,
+          7524.0,
+          9619.0,
+          9237.0,
+          7102.0,
+          5030.0,
+          5305.0,
+          5396.0,
+          4651.0,
+          6264.0,
+          11032.0,
+          16166.0
+        ],
+        "Total Assets": [
+          21731.0,
+          9723.0,
+          12160.0,
+          11121.0,
+          8871.0,
+          6530.0,
+          6601.0,
+          6475.0,
+          5523.0,
+          7179.0,
+          12960.0,
+          18869.0
+        ]
+      }
+    },
+    "cash_flows": {
+      "headers": [
+        "Mar 2015",
+        "Mar 2016",
+        "Mar 2017",
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Cash from Operating Activity": [
+          1119.0,
+          -739.0,
+          1602.0,
+          -109.0,
+          1267.0,
+          -929.0,
+          530.0,
+          1302.0,
+          491.0,
+          80.0,
+          1092.0,
+          1202.0
+        ],
+        "Cash from Investing Activity": [
+          -825.0,
+          4482.0,
+          -643.0,
+          -138.0,
+          125.0,
+          -32.0,
+          -24.0,
+          -19.0,
+          85.0,
+          -152.0,
+          -749.0,
+          -914.0
+        ],
+        "Cash from Financing Activity": [
+          -199.0,
+          -5656.0,
+          -1249.0,
+          492.0,
+          -1898.0,
+          969.0,
+          -327.0,
+          -1045.0,
+          -709.0,
+          132.0,
+          343.0,
+          -155.0
+        ],
+        "Net Cash Flow": [
+          95.0,
+          -1914.0,
+          -290.0,
+          245.0,
+          -506.0,
+          8.0,
+          180.0,
+          238.0,
+          -133.0,
+          60.0,
+          686.0,
+          133.0
+        ],
+        "Free Cash Flow": [
+          429.0,
+          -1126.0,
+          1211.0,
+          -764.0,
+          1020.0,
+          -1029.0,
+          482.0,
+          1226.0,
+          477.0,
+          -147.0,
+          724.0,
+          626.0
+        ],
+        "CFO/EBITDA\n              \n              \n                \n                  \n\nShare of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+          -23.0,
+          270.0,
+          67.0,
+          -17.0,
+          -5358.0,
+          108.0,
+          96.0,
+          144.0,
+          61.0,
+          10.0,
+          59.0,
+          42.0
+        ]
+      }
+    },
+    "ratios": {
+      "headers": [
+        "Mar 2015",
+        "Mar 2016",
+        "Mar 2017",
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Debtor Days": [
+          50.0,
+          97.0,
+          104.0,
+          134.0,
+          137.0,
+          168.0,
+          130.0,
+          76.0,
+          72.0,
+          102.0,
+          130.0,
+          137.0
+        ],
+        "Inventory Days": [
+          90.0,
+          164.0,
+          168.0,
+          216.0,
+          355.0,
+          400.0,
+          503.0,
+          186.0,
+          176.0,
+          210.0,
+          171.0,
+          152.0
+        ],
+        "Days Payable": [
+          122.0,
+          193.0,
+          233.0,
+          180.0,
+          265.0,
+          253.0,
+          366.0,
+          155.0,
+          86.0,
+          165.0,
+          156.0,
+          172.0
+        ],
+        "Cash Conversion Cycle": [
+          18.0,
+          68.0,
+          39.0,
+          170.0,
+          227.0,
+          315.0,
+          266.0,
+          107.0,
+          162.0,
+          148.0,
+          145.0,
+          117.0
+        ],
+        "Working Capital Days": [
+          -96.0,
+          -56.0,
+          -155.0,
+          -100.0,
+          -328.0,
+          -1465.0,
+          84.0,
+          16.0,
+          66.0,
+          103.0,
+          73.0,
+          84.0
+        ],
+        "ROCE %": [
+          -48.0,
+          11.0,
+          53.0,
+          15.0,
+          -8.0,
+          -48.0,
+          10.0,
+          21.0,
+          20.0,
+          25.0,
+          33.0,
+          34.0
+        ]
+      }
+    },
+    "documents": {
+      "concalls": [
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cb76651-c386-473a-b1c2-a7deb717c0f3.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/pdf/investor/financial-reports-presentations/2026-27/2026-07-28_SEL_Financial_Reports_Q1_FY27_Investor_Presentation_FY27.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/pdf/investor/financial-reports-presentations/2026-27/Audio-Recording-Conference-Call-Q1-2026-27.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6ea0f24d-87ca-4c8e-99a7-9b795da08352.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b1b9fbb-55f9-4f1d-a70b-32f4ebdf2d7a.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/pdf/investor/financial-reports-presentations/2025-26/fourth-quarter/10042915-mp31.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com//NewPdf/Financial_Reports_&_Presentations/2025-26/Q4_FY26_Investor_Presentation_Print_25052026.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01ca6133-c315-4b6e-8725-1a59120c9e63.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9bc7c4a5-1c9d-4490-8585-9e4bd7a30c44.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com//NewPdf/Financial_Reports_&_Presentations/2025-26/Call_Recording.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44870f4e-11a6-4e64-b668-e9643b633e87.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com//NewPdf/Financial_Reports_&_Presentations/2025-26/Q2_FY26_Investor_Presentation.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com//NewPdf/Financial_Reports_&_Presentations/2025-26/10037047.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2e5b21d9-57f3-413e-96ec-1f45b59470f9.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2025-26/IR_Presentation-Q1-FY26-pdf.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2025-26/10034533.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d5786af1-6aaf-43a8-b273-76e1e4147fe6.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/IR_Presentation-Q4-FY25.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/Call_Recording.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3e4166e1-9d7b-458a-93a4-625006472075.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/IR-Presentation-Q3-FY25.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/10029372.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2912150-1a8e-4d2e-9309-7d237875ee40.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/IR_Presentation_Q2FY25_Print_Final.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea8626f2-5485-46a8-88e1-e770160eea06.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70be6b2d-08b6-4550-a472-b2f289a17585.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/ICI0420240724154271.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be1984b7-22b5-4c9d-b096-77da2bcf399c.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/IR-Presentation-Q1-FY25.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faee48df-a5fb-4d21-b039-0b06a1ce75d0.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2023-24/IR-Presentation-Q4-FY24.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1f1d3711-d7f5-4e09-ab8a-9ea70ecdd8e4.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/pdf/investor/financial-reports-presentations/2023-24/fourth-quarter/ICI0420240524153256.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a774df12-19d2-4582-9ecc-acab5e54b410.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9c5fef0c-cbe4-4b02-81d6-a92513fdd724.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2023-24/IR-Presentation-Q3-FY24.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1793045e-bfe6-4e50-a72e-aedabb24fe71.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/pdf/investor/financial-reports-presentations/2023-24/third-quarter/JMF1720240131150931.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1900fd3b-f25b-4a41-9f9a-b14754c8d74a.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e1bbca4-eea5-49f1-9df3-2b3f7f002a2e.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2023-24/ICI0420231102149194.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6b3d9b54-1b1e-405d-9332-57f69c485d54.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2023-24/IR_Presentation_Q1FY24.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2023-24/ICI0420230725148118.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d52034c7-4a67-4424-b4c4-ad38f8fdc478.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=61f96f46-66ac-432a-a221-a29fdb5a5588.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2022-23/EMK0320230601147247.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2022-23/IR-Presentation-Q4-FY23.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f9182dff-022a-4b4c-aa82-8fdc4a26ca6b.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2022-23/IR_Presentation_Q3FY23.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2022-23/ICI0420230210145337.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=16918bdb-d73a-4cc0-91fe-17008be509aa.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55d39e83-7a66-4c67-b7c1-484267ed04c2.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2022-23/ICI0420221111144474.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8d3e2aa6-2974-4854-bbd9-43de9be3eadd.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.suzlon.com/pdf/investor/investor_presentation/suzlon-energy-call-transcript.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36a13aa2-487e-405e-b652-354ca5a559ed.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6fe97b00-d9db-405e-968e-ec1a997db98e.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=02E3DA8E_7A90_4E59_8495_332D02005CF3_144538.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971F4B3C_9AB0_4EC5_B4B6_6AE9E763215A_142507.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=EE56DECD_5930_4FAA_8EB1_732459F97059_180622.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=FC29E285_AA7F_4921_A079_A6A785D67D47_143234.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=632D8762_B61C_4A4F_94E6_CDA811E6B467_153159.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9C3553BA_4C17_42DC_805C_3995404FD2D8_202740.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=411EF070_455D_447E_99A8_7BE9593DD1AE_190214.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2D9200D3_FD20_4975_8367_7A9A7C2EA8B0_110835.pdf"
+            }
+          ]
+        }
+      ],
+      "annual_reports": [
+        {
+          "title": "Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf"
+        },
+        {
+          "title": "Annual Report 2025",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b3f426be-6b96-4a2e-855b-2e4937080064.pdf"
+        },
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bd2b3794-e202-4cba-9270-6d0b1115f539.pdf"
+        },
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7738a1c9-43a3-46eb-a1b7-4e3efa4c0d02.pdf"
+        },
+        {
+          "title": "Annual Report 2022",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/75765532667.pdf"
+        },
+        {
+          "title": "Annual Report 2021",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/70072532667.pdf"
+        },
+        {
+          "title": "Annual Report 2020",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/65613532667.pdf"
+        },
+        {
+          "title": "Annual Report 2019",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/5326670319.pdf"
+        },
+        {
+          "title": "Annual Report 2018",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/5326670318.pdf"
+        },
+        {
+          "title": "Annual Report 2017",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/5326670317.pdf"
+        },
+        {
+          "title": "Annual Report 2016",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/5326670316.pdf"
+        },
+        {
+          "title": "Annual Report 2015",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/5326670315.pdf"
+        },
+        {
+          "title": "Annual Report 2014",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/5326670314.pdf"
+        },
+        {
+          "title": "Annual Report 2013",
+          "url": "https://archives.nseindia.com/annual_reports/AR_1313_SUZLON_2012_2013_02092013094718.zip"
+        },
+        {
+          "title": "Annual Report 2013",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532667/5326670313.pdf"
+        },
+        {
+          "title": "Right Issue",
+          "url": "https://www.sebi.gov.in/filings/rights-issues/sep-2022/suzlon-energy-limited_63455.html"
+        }
+      ],
+      "announcements": [
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Credit Rating\n\n          \n            28 Oct - CRISIL upgraded Suzlon’s ₹5,685 crore bank facilities to AA-/Stable and A1+ on 28 October 2026.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=88b907cb-25c9-42b2-bd1d-ef7a22ea957b.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\n\n          \n            26 Oct",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9d1f5a8c-0469-4936-a40e-42fed0ea84b4.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS\n\n          \n            21 Oct - Allotment of 3,46,000 equity shares pursuant to exercise of stock options under ESOP 2022",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9dcebc42-805d-4f97-807c-4974f5c53652.pdf"
+        },
+        {
+          "title": "Board Meeting Intimation for Inter Alia, Consider And Approve The Unaudited Financial Results Of The Company On Standalone And Consolidated Basis For The Quarter And Half Year Ended On 30Th September 2026.\n\n          \n            21 Oct - Board meeting on 29 Oct 2026 to approve Q2 FY2027 standalone and consolidated results; trading window closed till 31 Oct.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56c6a0ad-5c8d-4e54-9d6d-f5d98d49ead9.pdf"
+        },
+        {
+          "title": "Rumour verification - Regulation 30(11)\n\n          \n            13 Oct - Suzlon reports material price movement on 12 October 2026, with no triggering event identified.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9d6503b1-9dc6-413d-90a1-13a6ee7b52f3.pdf"
+        }
+      ]
+    },
+    "source_url": "https://www.screener.in/company/SUZLON/consolidated/"
+  }
+}

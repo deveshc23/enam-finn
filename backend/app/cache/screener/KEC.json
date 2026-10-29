@@ -1,0 +1,1693 @@
+{
+  "timestamp": 1793266640.8224263,
+  "data": {
+    "symbol": "KEC",
+    "company_name": "KEC International Ltd",
+    "about": "KEC International is a global infrastructure EPC major. It has presence in the verticals of Power Transmission and Distribution, Railways, Civil, Urban Infrastructure, Solar, Oil & Gas Pipelines, and Cables. It is the flagship Company of the RPG Group.[1]",
+    "ratios_top": {
+      "Market Cap": "₹         9,176                    Cr.",
+      "Current Price": "₹         345",
+      "High / Low": "₹ 834 / 317",
+      "Stock P/E": "15.2",
+      "Book Value": "₹         231",
+      "Dividend Yield": "1.61                    %",
+      "ROCE": "16.5                    %",
+      "ROE": "11.4                    %",
+      "Face Value": "₹         2.00"
+    },
+    "quarterly_results": {
+      "headers": [
+        "Jun 2023",
+        "Sep 2023",
+        "Dec 2023",
+        "Mar 2024",
+        "Jun 2024",
+        "Sep 2024",
+        "Dec 2024",
+        "Mar 2025",
+        "Jun 2025",
+        "Sep 2025",
+        "Dec 2025",
+        "Mar 2026",
+        "Jun 2026"
+      ],
+      "rows": {
+        "Sales": [
+          4244.0,
+          4499.0,
+          5007.0,
+          6165.0,
+          4512.0,
+          5113.0,
+          5349.0,
+          6872.0,
+          5023.0,
+          6092.0,
+          6001.0,
+          6390.0,
+          5024.0
+        ],
+        "Expenses": [
+          3999.0,
+          4225.0,
+          4699.0,
+          5777.0,
+          4242.0,
+          4793.0,
+          4975.0,
+          6333.0,
+          4673.0,
+          5661.0,
+          5571.0,
+          5942.0,
+          4733.0
+        ],
+        "Operating Profit": [
+          244.0,
+          274.0,
+          308.0,
+          388.0,
+          270.0,
+          320.0,
+          374.0,
+          539.0,
+          350.0,
+          430.0,
+          430.0,
+          448.0,
+          291.0
+        ],
+        "OPM %": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          7.0,
+          8.0,
+          7.0,
+          7.0,
+          7.0,
+          7.0,
+          6.0
+        ],
+        "Other Income": [
+          3.0,
+          16.0,
+          26.0,
+          8.0,
+          43.0,
+          7.0,
+          1.0,
+          20.0,
+          5.0,
+          5.0,
+          -49.0,
+          30.0,
+          14.0
+        ],
+        "Interest": [
+          159.0,
+          178.0,
+          164.0,
+          154.0,
+          155.0,
+          168.0,
+          170.0,
+          170.0,
+          151.0,
+          171.0,
+          171.0,
+          170.0,
+          164.0
+        ],
+        "Depreciation": [
+          42.0,
+          47.0,
+          49.0,
+          48.0,
+          47.0,
+          45.0,
+          45.0,
+          47.0,
+          46.0,
+          51.0,
+          50.0,
+          51.0,
+          51.0
+        ],
+        "Profit before tax": [
+          47.0,
+          66.0,
+          121.0,
+          193.0,
+          112.0,
+          113.0,
+          160.0,
+          342.0,
+          159.0,
+          213.0,
+          160.0,
+          258.0,
+          90.0
+        ],
+        "Tax %": [
+          9.0,
+          15.0,
+          20.0,
+          21.0,
+          22.0,
+          25.0,
+          19.0,
+          22.0,
+          21.0,
+          25.0,
+          20.0,
+          25.0,
+          19.0
+        ],
+        "Net Profit": [
+          42.0,
+          56.0,
+          97.0,
+          152.0,
+          88.0,
+          85.0,
+          130.0,
+          268.0,
+          125.0,
+          161.0,
+          127.0,
+          193.0,
+          73.0
+        ],
+        "EPS in Rs": [
+          1.65,
+          2.17,
+          3.77,
+          5.9,
+          3.41,
+          3.21,
+          4.87,
+          10.08,
+          4.68,
+          6.04,
+          4.79,
+          7.24,
+          2.73
+        ],
+        "Raw PDF": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "profit_loss": {
+      "headers": [
+        "Mar 2015",
+        "Mar 2016",
+        "Mar 2017",
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "rows": {
+        "Sales": [
+          8468.0,
+          8518.0,
+          8584.0,
+          10053.0,
+          11001.0,
+          11965.0,
+          13114.0,
+          13742.0,
+          17282.0,
+          19914.0,
+          21847.0,
+          23506.0,
+          23506.0
+        ],
+        "Expenses": [
+          7889.0,
+          7733.0,
+          7673.0,
+          8957.0,
+          9764.0,
+          10635.0,
+          11874.0,
+          12742.0,
+          16362.0,
+          18556.0,
+          20164.0,
+          21636.0,
+          21907.0
+        ],
+        "Operating Profit": [
+          579.0,
+          785.0,
+          911.0,
+          1095.0,
+          1237.0,
+          1330.0,
+          1240.0,
+          1001.0,
+          920.0,
+          1359.0,
+          1683.0,
+          1869.0,
+          1599.0
+        ],
+        "OPM %": [
+          7.0,
+          9.0,
+          11.0,
+          11.0,
+          11.0,
+          11.0,
+          9.0,
+          7.0,
+          5.0,
+          7.0,
+          8.0,
+          8.0,
+          7.0
+        ],
+        "Other Income": [
+          146.0,
+          6.0,
+          14.0,
+          22.0,
+          31.0,
+          11.0,
+          29.0,
+          -31.0,
+          59.0,
+          50.0,
+          68.0,
+          -11.0,
+          0.0
+        ],
+        "Interest": [
+          376.0,
+          368.0,
+          332.0,
+          318.0,
+          398.0,
+          403.0,
+          360.0,
+          413.0,
+          656.0,
+          797.0,
+          839.0,
+          872.0,
+          677.0
+        ],
+        "Depreciation": [
+          88.0,
+          132.0,
+          130.0,
+          110.0,
+          117.0,
+          147.0,
+          153.0,
+          158.0,
+          161.0,
+          185.0,
+          184.0,
+          197.0,
+          202.0
+        ],
+        "Profit before tax": [
+          261.0,
+          291.0,
+          463.0,
+          689.0,
+          753.0,
+          790.0,
+          756.0,
+          399.0,
+          161.0,
+          426.0,
+          727.0,
+          789.0,
+          721.0
+        ],
+        "Tax %": [
+          38.0,
+          49.0,
+          34.0,
+          33.0,
+          34.0,
+          28.0,
+          27.0,
+          17.0,
+          -9.0,
+          19.0,
+          22.0,
+          23.0,
+          null
+        ],
+        "Net Profit": [
+          161.0,
+          148.0,
+          305.0,
+          460.0,
+          496.0,
+          566.0,
+          553.0,
+          332.0,
+          176.0,
+          347.0,
+          571.0,
+          606.0,
+          554.0
+        ],
+        "EPS in Rs": [
+          6.26,
+          5.75,
+          11.86,
+          17.91,
+          19.28,
+          22.0,
+          21.5,
+          12.92,
+          6.85,
+          13.49,
+          21.44,
+          22.75,
+          20.8
+        ],
+        "Dividend Payout %": [
+          14.0,
+          17.0,
+          14.0,
+          13.0,
+          14.0,
+          15.0,
+          19.0,
+          31.0,
+          44.0,
+          30.0,
+          26.0,
+          24.0,
+          null
+        ]
+      }
+    },
+    "balance_sheet": {
+      "headers": [
+        "Mar 2015",
+        "Mar 2016",
+        "Mar 2017",
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Equity Capital": [
+          51.0,
+          51.0,
+          51.0,
+          51.0,
+          51.0,
+          51.0,
+          51.0,
+          51.0,
+          51.0,
+          51.0,
+          53.0,
+          53.0
+        ],
+        "Reserves": [
+          1278.0,
+          1239.0,
+          1535.0,
+          1946.0,
+          2384.0,
+          2746.0,
+          3308.0,
+          3569.0,
+          3720.0,
+          4044.0,
+          5294.0,
+          6106.0
+        ],
+        "Borrowings": [
+          2214.0,
+          3221.0,
+          2106.0,
+          1766.0,
+          1839.0,
+          2519.0,
+          2066.0,
+          3065.0,
+          3383.0,
+          3961.0,
+          3957.0,
+          5378.0
+        ],
+        "Other Liabilities": [
+          4183.0,
+          4362.0,
+          5023.0,
+          6749.0,
+          7389.0,
+          7538.0,
+          8566.0,
+          9613.0,
+          10117.0,
+          10975.0,
+          12859.0,
+          13596.0
+        ],
+        "Total Liabilities": [
+          7727.0,
+          8874.0,
+          8715.0,
+          10512.0,
+          11663.0,
+          12855.0,
+          13992.0,
+          16298.0,
+          17271.0,
+          19031.0,
+          22164.0,
+          25133.0
+        ],
+        "Fixed Assets": [
+          1259.0,
+          1198.0,
+          1149.0,
+          1112.0,
+          1182.0,
+          1352.0,
+          1398.0,
+          1538.0,
+          1583.0,
+          1628.0,
+          1647.0,
+          1773.0
+        ],
+        "CWIP": [
+          16.0,
+          8.0,
+          5.0,
+          78.0,
+          7.0,
+          84.0,
+          18.0,
+          2.0,
+          11.0,
+          14.0,
+          39.0,
+          114.0
+        ],
+        "Investments": [
+          0.0,
+          25.0,
+          130.0,
+          39.0,
+          13.0,
+          22.0,
+          1.0,
+          13.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Other Assets": [
+          6452.0,
+          7643.0,
+          7431.0,
+          9283.0,
+          10460.0,
+          11396.0,
+          12575.0,
+          14745.0,
+          15677.0,
+          17389.0,
+          20479.0,
+          23246.0
+        ],
+        "Total Assets": [
+          7727.0,
+          8874.0,
+          8715.0,
+          10512.0,
+          11663.0,
+          12855.0,
+          13992.0,
+          16298.0,
+          17271.0,
+          19031.0,
+          22164.0,
+          25133.0
+        ]
+      }
+    },
+    "cash_flows": {
+      "headers": [
+        "Mar 2015",
+        "Mar 2016",
+        "Mar 2017",
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Cash from Operating Activity": [
+          153.0,
+          -75.0,
+          1662.0,
+          660.0,
+          199.0,
+          87.0,
+          840.0,
+          -284.0,
+          614.0,
+          311.0,
+          419.0,
+          -414.0
+        ],
+        "Cash from Investing Activity": [
+          125.0,
+          -7.0,
+          -182.0,
+          -4.0,
+          -67.0,
+          -113.0,
+          -134.0,
+          -204.0,
+          -139.0,
+          -243.0,
+          -46.0,
+          -231.0
+        ],
+        "Cash from Financing Activity": [
+          -216.0,
+          -28.0,
+          -1379.0,
+          -638.0,
+          -150.0,
+          3.0,
+          -659.0,
+          496.0,
+          -401.0,
+          -145.0,
+          -32.0,
+          511.0
+        ],
+        "Net Cash Flow": [
+          62.0,
+          -110.0,
+          101.0,
+          17.0,
+          -18.0,
+          -23.0,
+          47.0,
+          8.0,
+          74.0,
+          -76.0,
+          341.0,
+          -134.0
+        ],
+        "Free Cash Flow": [
+          269.0,
+          -99.0,
+          1595.0,
+          524.0,
+          90.0,
+          -115.0,
+          726.0,
+          -425.0,
+          451.0,
+          78.0,
+          270.0,
+          -691.0
+        ],
+        "CFO/EBITDA\n              \n              \n                \n                  \n\nShare of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+          47.0,
+          7.0,
+          194.0,
+          81.0,
+          40.0,
+          33.0,
+          85.0,
+          0.0,
+          90.0,
+          41.0,
+          16.0,
+          -6.0
+        ]
+      }
+    },
+    "ratios": {
+      "headers": [
+        "Mar 2015",
+        "Mar 2016",
+        "Mar 2017",
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Debtor Days": [
+          166.0,
+          200.0,
+          179.0,
+          183.0,
+          162.0,
+          166.0,
+          150.0,
+          136.0,
+          90.0,
+          76.0,
+          84.0,
+          101.0
+        ],
+        "Inventory Days": [
+          38.0,
+          32.0,
+          35.0,
+          45.0,
+          43.0,
+          51.0,
+          54.0,
+          65.0,
+          59.0,
+          53.0,
+          41.0,
+          50.0
+        ],
+        "Days Payable": [
+          266.0,
+          248.0,
+          278.0,
+          331.0,
+          324.0,
+          327.0,
+          395.0,
+          420.0,
+          433.0,
+          401.0,
+          380.0,
+          351.0
+        ],
+        "Cash Conversion Cycle": [
+          -62.0,
+          -17.0,
+          -64.0,
+          -103.0,
+          -119.0,
+          -111.0,
+          -191.0,
+          -219.0,
+          -284.0,
+          -272.0,
+          -255.0,
+          -201.0
+        ],
+        "Working Capital Days": [
+          7.0,
+          8.0,
+          21.0,
+          33.0,
+          43.0,
+          34.0,
+          37.0,
+          35.0,
+          27.0,
+          25.0,
+          42.0,
+          57.0
+        ],
+        "ROCE %": [
+          15.0,
+          16.0,
+          20.0,
+          27.0,
+          29.0,
+          25.0,
+          21.0,
+          14.0,
+          12.0,
+          16.0,
+          18.0,
+          17.0
+        ]
+      }
+    },
+    "documents": {
+      "concalls": [
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/public/media/earningsCallRecordingFilesMedia/KEC%20Q1%20FY27%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44b3ef9e-628f-44f1-afbe-dcc288e7d505.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/public/media/earningsCallRecordingTypeMedia/KEC%20Q1%20FY27%20Earnings%20Call%20Audio.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/public/media/earningsCallRecordingFilesMedia/KEC%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e0f2abda-29a8-4c82-aea9-ae05fa8c83d9.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/public//media/earningsCallRecordingTypeMedia/KEC%20Q4%20FY26%20Earnings%20Call%20Audio.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e00a32bc-45d2-4f7b-939d-a87189349b76.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/public/media/earningsCallRecordingFilesMedia/KEC%20Earnings%20Call%2030th%20Jan%202026.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=223365da-541b-4b4b-bc91-3437e0fdd6b3.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/public//media/earningsCallRecordingTypeMedia/KEC%20Q3%20FY26%20Earnings%20Call%20Audio.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/public/media/earningsCallRecordingFilesMedia/KEC%20Q2%20FY26%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27d03e00-1aa7-4d91-85a8-c67bdbaeb8cc.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://youtu.be/-RkMog8-sfI"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/public/media/earningsCallRecordingFilesMedia/KEC%20Q1%20FY26%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d12bc88-098a-416c-9cff-6d0cc87814ca.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/public/media/earningsCallRecordingFilesMedia/KEC%20Q4%20FY25%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=15ed0cea-49ea-44bc-ae62-0fd12c3d7c4e.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9f173a5-1e05-48bc-8164-279825070717.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/public/media/earningsCallRecordingFilesMedia/KEC%20Q3%20FY25%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=441f45aa-f167-40c6-8c87-30a66b6f43d7.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/public//media/earningsCallRecordingTypeMedia/KEC%20Q3%20FY25%20Earnings%20Call%20Audio.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/media/earningsCallRecordingFilesMedia/KEC%20Q2%20FY25%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7334ab6f-2991-48e7-9267-a3820247dbce.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/media/earningsCallRecordingFilesMedia/KEC%20Q1%20FY25%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a9f5343-812a-4622-bd1c-c61cf7122a14.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/public//media/earningsCallRecordingTypeMedia/KEC%20Q1%20FY25%20Earnings%20Call%20Audio.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/media/earningsCallRecordingFilesMedia/KEC%20Q4%20FY24%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f82224fa-3d42-4b70-ac5e-cc869ddef972.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/public//media/earningsCallRecordingTypeMedia/KEC%20Earnings%20Call%20Audio%20Q4%20FY24.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=694c0e53-9028-4782-8027-f71289165f1a.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2842288e-546b-4c87-9f10-b4a157dd3155.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KECEarningsCallTranscriptQ3FY24.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=627800ba-1331-4d04-90bd-ba18b71c82de.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/audios/KEC%20Q3%20FY24%20Earnings%20Call.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85a96115-788a-466c-9c3c-0dd02104ac44.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC%20Q2%20FY24%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59b09354-c9af-4d3f-9d57-224bfc5011e6.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=643996bd-2ab3-41ae-a389-7aa2d1906656.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC%20Earnings%20Call%20Transcript_Q1%20FY24.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cb83607c-c129-4ecc-b2d2-b88096b195b0.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa0684fc-2d4d-4be5-87fa-be229404e89d.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC_Q4_FY23_Earnings_Call_Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1a2beb3-caed-4328-8546-eb0b403b6582.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/audios/KEC%20Q4%20FY23%20Earnings%20Call%20Audio.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=47002a4a-7e7a-4635-b49a-f74fa7843c9d.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC_Q3_FY23_Earnings_Call_Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87dda387-4077-4923-9c09-a0d800cfd7bb.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/audios/Q3%20FY23%20Earnings%20call%20Audio.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=089a79b6-c1bd-4c39-8c8c-4ff022c63f10.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC_Earnings_Call_Transcript_Q2_FY23.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09c4699f-04ad-4f9b-af4e-20d187a4bb4a.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/audios/KEC%20Q2%20FY23%20Earnings%20Call.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a31480a8-33cc-4190-bfe2-c41da4c44c86.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2d3b7a1-5843-4eb6-b33a-985a2a45b8f2.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC_Q1_FY23_Earnings_Call_Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95d0b550-9a94-444c-9030-cf8d7ed866fd.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/audios/KEC%20Q1%20FY23%20Earnings%20Call%20Audio.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d3836caf-bc15-44b7-9b2c-f6f02883b5b1.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC%20Q4%20FY22%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9b71c5f3-7330-4c24-bddc-e39d141d1923.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=735959e6-a39b-4f27-a691-365efbcfb700.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC%20International%20Q3%20FY22%20Earnings%20Call%20Transcript.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d8a0c690-1460-4eca-a72e-1f3a257d6357.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f756447d-42a3-4853-97a1-bbfe1bbf95a1.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC%20International%20Earnings%20call%20transcript_Q2%20FY22.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c826ef67-1f0b-43e9-9ace-1ec9a8d17caf.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f3dadea3-8061-47ad-8a15-b52f9e3b5e38.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5c581203-dc43-4109-86f1-3bd5456fadc5.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC%20International%20Earnings%20call%20Transcript%2002%20Aug'21.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2938d56-4e80-40bc-9134-4a4b59608591.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2650d3ea-1ef0-4116-9904-2adc9c81c0c0.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KECInternational-Earnings-12May2021.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=118756f1-ef52-44a7-9bcc-6c1b465ec412.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5aa749c7-6cf7-41f8-9c0a-eb645368e562.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=905e71f4-3a72-4efb-a6cf-cc780012c5dc.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KECInternational-Earnings-29Jan2021.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63a61a55-89dd-4986-bcdf-377e1fd9b201.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KECInternational-Earnings-Nov05-2020.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f5d0ce7-a06c-4220-a82f-04c653e43ef2.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a2b53e31-9d32-4a7d-a75e-b35649d6436f.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=566179c3-99de-413a-b0ec-44b147c0a5a7.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC_Earnings%20call%20transcript%20Q1%20FY21_11%20Aug'20.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97aa4712-fd3f-40c7-869a-a99447578b12.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3a4f5e17-f69c-4476-a0fd-a3319f38afcc.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=745d013a-01ac-4acd-b38a-66d1276b60c9.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC-Earnings%20Transcript-May29-2020.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=073df360-da94-4c3c-b86d-336c992810f7.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q3%20FY20.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34b51a1a-6590-4686-97d9-317b779c6790.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q2%20FY20.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c32dbad4-beb0-4e4e-8d18-17bd5e82ee22.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48207806-8eb0-4df9-9c8f-8ac105c98a9e.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q1%20FY20.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3198bf28-926d-482e-9d16-d71b617db6ac.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q4%20FY19.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cb01880-6522-4be6-a1b6-adff4d19a90c.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q3%20FY19.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4f820954-d2da-4be2-8075-f08666580929.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q2%20FY19.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deadc8fd-e26a-4c9d-8b73-f8d6a3524b5e.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q1%20FY19.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c698942d-dcd6-4040-9e4b-f04feba6174b.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=522bfb63-a64f-401b-a4a7-0c7e3a740ba0.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q4%20FY18.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d851adeb-48e8-439b-87d1-b3bde5e69123.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q3%20FY18.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b7884901-2320-41b2-b710-2061211202f7.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q2%20FY18.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=54f8fc7d-0e90-4f00-a130-3c470f6590d3.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KECInternational-Results-Aug02-2017.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91ad4dff-bc62-4c46-9797-1e0a0d31f2a7.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=96c10d70-99b7-47f0-9290-677cd91e373e.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/Conference%20Call%20Transcript%20for%20Q4%20FY17.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6144e85c-b8e1-42df-8d99-11df8752ede7.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=758B0B0F_0446_413C_AFDB_D71074A49763_145153.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86C025CE_6952_43EE_AFAF_CAD9C5D77A53_142711.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KEC%20International-Earnings-July29-2016.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=EE56F0FC_0EED_40FA_B259_2888478F62C5_163308.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6FB78CAE_18C2_488B_8D8D_D97034EA84FA_192823.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kecrpg.com/KEC%20data/Investor%20relations/presentation%20to%20analysts/KECInternational-Earnings-09May2016%20Final.pdf"
+            }
+          ]
+        }
+      ],
+      "annual_reports": [
+        {
+          "title": "Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dd9830e5-29a5-4316-95c0-8dd5ee893d7b.pdf"
+        },
+        {
+          "title": "Annual Report 2025",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bbad8592-d586-49bd-bc55-f65b64e3f1a6.pdf"
+        },
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9a1302d8-9fa0-435c-ace4-013c283515fa.pdf"
+        },
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8bd6b568-d6fe-49a4-88d0-4772905ccb35.pdf"
+        },
+        {
+          "title": "Annual Report 2022",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/73134532714.pdf"
+        },
+        {
+          "title": "Annual Report 2021",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/68876532714.pdf"
+        },
+        {
+          "title": "Annual Report 2020",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140320.pdf"
+        },
+        {
+          "title": "Annual Report 2019",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140319.pdf"
+        },
+        {
+          "title": "Annual Report 2018",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140318.pdf"
+        },
+        {
+          "title": "Annual Report 2017",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140317.pdf"
+        },
+        {
+          "title": "Annual Report 2016",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140316.pdf"
+        },
+        {
+          "title": "Annual Report 2015",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140315.pdf"
+        },
+        {
+          "title": "Annual Report 2014",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140314.pdf"
+        },
+        {
+          "title": "Annual Report 2013",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140313.pdf"
+        },
+        {
+          "title": "Annual Report 2012",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/532714/5327140312.pdf"
+        }
+      ],
+      "announcements": [
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\n\n          \n            26 Oct - Pursuant to Regulation 30 read with Schedule III of SEBI (LODR) Regulations, 2015, we hereby inform that the Company will hold an Earnings Conference ....",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36fbb4a1-cc42-4f4f-8c0e-7c185303a0bc.pdf"
+        },
+        {
+          "title": "Board Meeting Intimation for Approval Of The Consolidated And Standalone Unaudited Financial Results Of The Company For The Quarter And Half Year Ended On September 30, 2026\n\n          \n            26 Oct - Board meets on November 2, 2026 to consider Q2 and half-year FY2026 unaudited results.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1e7dfd55-7b6b-40a8-b086-4b10d45132d1.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\n\n          \n            24 Oct - KEC wins Rs 2,872 crore PGCIL T&D orders on Oct 24; largest-ever India T&D order, YTD intake Rs 13,500 crore.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9e7de81-66de-4937-8588-118b12d6166c.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)\n\n          \n            23 Oct - KEC International wins Rs 1,006 crore orders across T&D, Civil, and Cables; YTD intake crosses Rs 10,600 crore.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d202fa2c-cfef-4df3-8b7a-a9be2a2cb4ed.pdf"
+        },
+        {
+          "title": "Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015 - ESG Rating\n\n          \n            16 Oct - NSE Sustainability assigned KEC an ESG rating of 66 for FY2026, up from 65.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b96e71cd-e082-4d6e-b6b2-7c4ff5c2e56f.pdf"
+        }
+      ]
+    },
+    "source_url": "https://www.screener.in/company/KEC/consolidated/"
+  }
+}

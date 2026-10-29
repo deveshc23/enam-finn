@@ -1,0 +1,22 @@
+# Executables & Tunnels
+cloudflared.exe
+*.exe
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+market_cache.json
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.env.*.local
+
+# Operating System
+.DS_Store
+Thumbs.db

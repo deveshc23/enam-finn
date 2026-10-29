@@ -1,0 +1,1029 @@
+{
+  "timestamp": 1793287905.3717077,
+  "data": {
+    "symbol": "KALYANKJIL",
+    "company_name": "Kalyan Jewellers India Ltd",
+    "about": "Kalyan Jewellers India Ltd. designs manufacture and sells a range of gold, studded and other jewellery products across various price points. It is one of the largest jewellery retailers in India based on revenue as of FY20. The co.  was founded by the current Chairman, MD and Promoter, Mr T.S. Kalyanaraman [1]",
+    "ratios_top": {
+      "Market Cap": "₹         53,187                    Cr.",
+      "Current Price": "₹         515",
+      "High / Low": "₹ 649 / 327",
+      "Stock P/E": "36.4",
+      "Book Value": "₹         61.1",
+      "Dividend Yield": "0.49                    %",
+      "ROCE": "21.2                    %",
+      "ROE": "24.8                    %",
+      "Face Value": "₹         10.0"
+    },
+    "quarterly_results": {
+      "headers": [
+        "Jun 2023",
+        "Sep 2023",
+        "Dec 2023",
+        "Mar 2024",
+        "Jun 2024",
+        "Sep 2024",
+        "Dec 2024",
+        "Mar 2025",
+        "Jun 2025",
+        "Sep 2025",
+        "Dec 2025",
+        "Mar 2026",
+        "Jun 2026"
+      ],
+      "rows": {
+        "Sales": [
+          4376.0,
+          4415.0,
+          5223.0,
+          4525.0,
+          5528.0,
+          6065.0,
+          7278.0,
+          6182.0,
+          7268.0,
+          7856.0,
+          10343.0,
+          10275.0,
+          10589.0
+        ],
+        "Expenses": [
+          4053.0,
+          4101.0,
+          4853.0,
+          4229.0,
+          5159.0,
+          5738.0,
+          6848.0,
+          5782.0,
+          6760.0,
+          7359.0,
+          9593.0,
+          9539.0,
+          9956.0
+        ],
+        "Operating Profit": [
+          323.0,
+          314.0,
+          370.0,
+          296.0,
+          368.0,
+          327.0,
+          430.0,
+          399.0,
+          508.0,
+          497.0,
+          750.0,
+          736.0,
+          633.0
+        ],
+        "OPM %": [
+          7.0,
+          7.0,
+          7.0,
+          7.0,
+          7.0,
+          5.0,
+          6.0,
+          6.0,
+          7.0,
+          6.0,
+          7.0,
+          7.0,
+          6.0
+        ],
+        "Other Income": [
+          12.0,
+          13.0,
+          20.0,
+          39.0,
+          30.0,
+          26.0,
+          40.0,
+          41.0,
+          46.0,
+          51.0,
+          23.0,
+          46.0,
+          56.0
+        ],
+        "Interest": [
+          82.0,
+          82.0,
+          82.0,
+          78.0,
+          85.0,
+          90.0,
+          88.0,
+          96.0,
+          104.0,
+          95.0,
+          104.0,
+          130.0,
+          108.0
+        ],
+        "Depreciation": [
+          64.0,
+          67.0,
+          70.0,
+          74.0,
+          75.0,
+          85.0,
+          89.0,
+          93.0,
+          98.0,
+          103.0,
+          109.0,
+          113.0,
+          115.0
+        ],
+        "Profit before tax": [
+          188.0,
+          178.0,
+          239.0,
+          184.0,
+          237.0,
+          178.0,
+          294.0,
+          251.0,
+          353.0,
+          350.0,
+          560.0,
+          539.0,
+          465.0
+        ],
+        "Tax %": [
+          24.0,
+          24.0,
+          24.0,
+          25.0,
+          25.0,
+          27.0,
+          26.0,
+          25.0,
+          25.0,
+          26.0,
+          26.0,
+          24.0,
+          25.0
+        ],
+        "Net Profit": [
+          144.0,
+          135.0,
+          180.0,
+          137.0,
+          178.0,
+          130.0,
+          219.0,
+          188.0,
+          264.0,
+          261.0,
+          416.0,
+          410.0,
+          349.0
+        ],
+        "EPS in Rs": [
+          1.4,
+          1.31,
+          1.75,
+          1.34,
+          1.72,
+          1.27,
+          2.12,
+          1.82,
+          2.56,
+          2.52,
+          4.03,
+          3.97,
+          3.38
+        ],
+        "Raw PDF": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "profit_loss": {
+      "headers": [
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026",
+        "TTM"
+      ],
+      "rows": {
+        "Sales": [
+          10505.0,
+          9771.0,
+          10101.0,
+          8573.0,
+          10818.0,
+          14071.0,
+          18516.0,
+          25045.0,
+          35743.0,
+          39063.0
+        ],
+        "Expenses": [
+          9732.0,
+          9151.0,
+          9302.0,
+          7949.0,
+          9965.0,
+          12906.0,
+          17180.0,
+          23461.0,
+          33181.0,
+          36448.0
+        ],
+        "Operating Profit": [
+          774.0,
+          620.0,
+          799.0,
+          624.0,
+          853.0,
+          1165.0,
+          1335.0,
+          1585.0,
+          2562.0,
+          2616.0
+        ],
+        "OPM %": [
+          7.0,
+          6.0,
+          8.0,
+          7.0,
+          8.0,
+          8.0,
+          7.0,
+          6.0,
+          7.0,
+          7.0
+        ],
+        "Other Income": [
+          32.0,
+          42.0,
+          80.0,
+          45.0,
+          38.0,
+          5.0,
+          106.0,
+          140.0,
+          162.0,
+          176.0
+        ],
+        "Interest": [
+          390.0,
+          418.0,
+          419.0,
+          405.0,
+          360.0,
+          353.0,
+          379.0,
+          422.0,
+          499.0,
+          438.0
+        ],
+        "Depreciation": [
+          202.0,
+          224.0,
+          239.0,
+          225.0,
+          232.0,
+          245.0,
+          274.0,
+          343.0,
+          423.0,
+          440.0
+        ],
+        "Profit before tax": [
+          214.0,
+          21.0,
+          221.0,
+          39.0,
+          299.0,
+          572.0,
+          789.0,
+          960.0,
+          1802.0,
+          1914.0
+        ],
+        "Tax %": [
+          34.0,
+          123.0,
+          36.0,
+          115.0,
+          25.0,
+          24.0,
+          24.0,
+          26.0,
+          25.0,
+          null
+        ],
+        "Net Profit": [
+          141.0,
+          -5.0,
+          142.0,
+          -6.0,
+          224.0,
+          432.0,
+          596.0,
+          714.0,
+          1350.0,
+          1435.0
+        ],
+        "EPS in Rs": [
+          1.7,
+          -0.04,
+          1.7,
+          -0.06,
+          2.18,
+          4.2,
+          5.8,
+          6.93,
+          13.08,
+          13.9
+        ],
+        "Dividend Payout %": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          12.0,
+          21.0,
+          22.0,
+          19.0,
+          null
+        ]
+      }
+    },
+    "balance_sheet": {
+      "headers": [
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Equity Capital": [
+          839.0,
+          839.0,
+          839.0,
+          1030.0,
+          1030.0,
+          1030.0,
+          1030.0,
+          1031.0,
+          1033.0
+        ],
+        "Reserves": [
+          1012.0,
+          1046.0,
+          1203.0,
+          1796.0,
+          2107.0,
+          2605.0,
+          3159.0,
+          3772.0,
+          5276.0
+        ],
+        "Borrowings": [
+          4196.0,
+          3907.0,
+          3759.0,
+          3378.0,
+          4029.0,
+          4295.0,
+          4495.0,
+          4959.0,
+          6117.0
+        ],
+        "Other Liabilities": [
+          2503.0,
+          2268.0,
+          2417.0,
+          2661.0,
+          1779.0,
+          2783.0,
+          4134.0,
+          5363.0,
+          8291.0
+        ],
+        "Total Liabilities": [
+          8551.0,
+          8060.0,
+          8219.0,
+          8865.0,
+          8945.0,
+          10713.0,
+          12818.0,
+          15126.0,
+          20717.0
+        ],
+        "Fixed Assets": [
+          1879.0,
+          2152.0,
+          2167.0,
+          1899.0,
+          1921.0,
+          1903.0,
+          2299.0,
+          2846.0,
+          3312.0
+        ],
+        "CWIP": [
+          18.0,
+          22.0,
+          24.0,
+          53.0,
+          2.0,
+          20.0,
+          49.0,
+          8.0,
+          18.0
+        ],
+        "Investments": [
+          1.0,
+          3.0,
+          0.0,
+          0.0,
+          1.0,
+          4.0,
+          4.0,
+          5.0,
+          6.0
+        ],
+        "Other Assets": [
+          6654.0,
+          5884.0,
+          6027.0,
+          6913.0,
+          7021.0,
+          8785.0,
+          10465.0,
+          12267.0,
+          17382.0
+        ],
+        "Total Assets": [
+          8551.0,
+          8060.0,
+          8219.0,
+          8865.0,
+          8945.0,
+          10713.0,
+          12818.0,
+          15126.0,
+          20717.0
+        ]
+      }
+    },
+    "cash_flows": {
+      "headers": [
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Cash from Operating Activity": [
+          null,
+          null,
+          320.0,
+          629.0,
+          245.0,
+          1013.0,
+          1322.0,
+          1209.0,
+          1318.0
+        ],
+        "Cash from Investing Activity": [
+          null,
+          null,
+          34.0,
+          -217.0,
+          64.0,
+          -384.0,
+          -137.0,
+          -177.0,
+          -118.0
+        ],
+        "Cash from Financing Activity": [
+          null,
+          null,
+          -343.0,
+          -208.0,
+          -524.0,
+          -638.0,
+          -1148.0,
+          -840.0,
+          -1264.0
+        ],
+        "Net Cash Flow": [
+          null,
+          null,
+          11.0,
+          204.0,
+          -216.0,
+          -8.0,
+          37.0,
+          193.0,
+          -64.0
+        ],
+        "Free Cash Flow": [
+          null,
+          null,
+          212.0,
+          581.0,
+          154.0,
+          827.0,
+          1061.0,
+          790.0,
+          939.0
+        ],
+        "CFO/EBITDA\n              \n              \n                \n                  \n\nShare of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+          null,
+          null,
+          41.0,
+          110.0,
+          47.0,
+          98.0,
+          116.0,
+          91.0,
+          68.0
+        ]
+      }
+    },
+    "ratios": {
+      "headers": [
+        "Mar 2018",
+        "Mar 2019",
+        "Mar 2020",
+        "Mar 2021",
+        "Mar 2022",
+        "Mar 2023",
+        "Mar 2024",
+        "Mar 2025",
+        "Mar 2026"
+      ],
+      "rows": {
+        "Debtor Days": [
+          6.0,
+          5.0,
+          8.0,
+          5.0,
+          4.0,
+          6.0,
+          6.0,
+          6.0,
+          9.0
+        ],
+        "Inventory Days": [
+          208.0,
+          200.0,
+          205.0,
+          272.0,
+          232.0,
+          216.0,
+          191.0,
+          162.0,
+          167.0
+        ],
+        "Days Payable": [
+          31.0,
+          19.0,
+          24.0,
+          35.0,
+          26.0,
+          37.0,
+          45.0,
+          39.0,
+          40.0
+        ],
+        "Cash Conversion Cycle": [
+          184.0,
+          187.0,
+          189.0,
+          241.0,
+          210.0,
+          185.0,
+          153.0,
+          129.0,
+          136.0
+        ],
+        "Working Capital Days": [
+          -11.0,
+          -12.0,
+          -5.0,
+          10.0,
+          30.0,
+          30.0,
+          25.0,
+          23.0,
+          30.0
+        ],
+        "ROCE %": [
+          null,
+          7.0,
+          11.0,
+          7.0,
+          10.0,
+          13.0,
+          14.0,
+          15.0,
+          21.0
+        ]
+      }
+    },
+    "documents": {
+      "concalls": [
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e2200376-f75e-4bfb-97cb-9caf2c4a37d3.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6fe9b143-4210-4301-9474-7f309338de91.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kalyanjewellers.net/images/investors-new/pdf/quarterly-results/FY%202026-2027/Earnings%20Conference%20Call%202027/Q1.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=973bf695-5283-4772-a690-e48ef38ac0be.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0fc3140b-3dc4-4f5f-b40d-3013c3a6a170.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kalyanjewellers.net/images/investors-new/pdf/quarterly-results/FY%202025-2026/Earnings%20Conference%20Call%202026/q4-10042144.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=734a40ea-8d9f-420f-b381-e3f39c0f06e3.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b733ddbf-cd29-4432-be8a-5359381e2c4e.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kalyanjewellers.net/images/investors-new/pdf/quarterly-results/FY%202025-2026/Earnings%20Conference%20Call%202026/q3-10039309.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=57b513b9-7596-4782-b9de-90261775c3d6.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a15c463-5988-4771-92f4-4872e7fe6b94.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://youtu.be/hBIl-WaoGP0"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d2aeba6-94d8-4c11-8936-5ee6ce5bf24a.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d907cd21-dc31-46de-9e02-2403c9d078c2.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://youtu.be/RaS9_dsLe4c?si=4z7OXh5MhhJbHxq7"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=562af076-0ce1-4427-a9d3-b2da385165f1.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1e7a6434-299d-49ba-a000-8e231919c502.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://youtu.be/ivbdM_M_Z5s"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=109f65b2-54e2-49d7-9ffe-6f5984785ba0.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34907849-39a9-4b4e-a852-5256365dd113.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.kalyanjewellers.net/images/investors-new/pdf/shareholder-information/other-calls/earnings-call-to-discuss-general-matters/2024-2025/Transcript-General%20Call.pdf"
+            },
+            {
+              "title": "REC",
+              "url": "https://www.kalyanjewellers.net/images/investors-new/pdf/shareholder-information/other-calls/earnings-call-to-discuss-general-matters/2024-2025/10028973.mp3"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=597e07e4-ae34-4f78-b1ca-781246ed3b02.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=006952ff-c524-423e-84fd-895ff43bb7cb.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e131a874-5135-4da3-b8e7-6220363f7703.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f4b0142-7b10-4b18-b276-5c84a6a52cdd.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=67c842cb-0425-4d3a-b7f2-1272153d8849.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bf788df-dea8-4d89-9110-42603c7c52e6.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5c0b8961-77f9-4788-aaac-a964501d8f53.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5ef52c63-0e0f-4f91-b872-c09b45565f77.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f3cc3165-ee06-44b6-bc39-87f5be056399.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87db110a-b4d7-4294-a9db-3d12fc69c8d9.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4da0158-3b3c-4277-9c54-5684ee0934b9.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ce332268-c123-4d1d-8030-17757d668348.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e94b971-6f76-4ced-882f-ada02ccf3669.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=245ed7f2-bf32-4d7d-9d4a-45acf78fd68a.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55ce01f6-5a70-4847-b870-1f68a7a3b561.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac95100c-a40d-4d6b-b1c6-31084f6a72ae.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec4c7e5e-9c85-40b1-9418-50aa7fa3a0a4.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9f4a3e3-e5d6-4622-b01f-ba1df8d17678.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=454af014-5876-44fd-813a-ff166f61fbc4.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fa4ba6b-36b4-4ef2-9fc9-77a2f7a42712.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "Transcript",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=922fb95a-19e7-421b-8457-a068d2722abf.pdf"
+            },
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6515d998-5adb-44b9-89e1-67edfdd4e468.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2580407-bcbc-4e57-81b1-0405e17f4e57.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6a279e0f-1594-4c23-8935-44b730eff3e5.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=282ac0b6-e2ac-4d72-8722-48dabe4cc1cb.pdf"
+            }
+          ]
+        },
+        {
+          "period_date": "",
+          "links": [
+            {
+              "title": "PPT",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59862cfe-bb57-41c8-8d11-b1124127ad94.pdf"
+            }
+          ]
+        }
+      ],
+      "annual_reports": [
+        {
+          "title": "Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ecfe2898-4e5b-4bd0-a076-00e3a129dd74.pdf"
+        },
+        {
+          "title": "Annual Report 2025",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ce66d73e-57a1-4e9c-9c84-eecbe88e863c.pdf"
+        },
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/788da011-0a0d-492e-a9f3-2c190fa12a9b.pdf"
+        },
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/79afc8d7-df4f-4b20-9c73-7ce521bf6e4f.pdf"
+        },
+        {
+          "title": "Annual Report 2022",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/543278/74841543278.pdf"
+        },
+        {
+          "title": "Annual Report 2021",
+          "url": "https://www.bseindia.com/bseplus/AnnualReport/543278/70003543278.pdf"
+        },
+        {
+          "title": "DRHP",
+          "url": "https://www.sebi.gov.in/filings/public-issues/mar-2021/kalyan-jewellers-india-limited_49584.html"
+        }
+      ],
+      "announcements": [
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\n\n          \n            26 Oct",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c696e217-e96d-4d03-88e4-61ba2002e3f4.pdf"
+        },
+        {
+          "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation\n\n          \n            23 Oct - Earnings conference call on 10 November 2026 at 5:00 PM IST to discuss Q2 FY27 results.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48c05486-f549-4681-b749-780d7a12e9a9.pdf"
+        },
+        {
+          "title": "Board Meeting Intimation for The Quarter And Half Year Ended September 30, 2026\n\n          \n            22 Oct - Board meeting on 10 November 2026 to approve Q2 and half-year FY2026 results.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=caa391dd-6df4-43b6-9643-aa15caa84018.pdf"
+        },
+        {
+          "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018\n\n          \n            7 Oct - Submitted Regulation 74(5) certificate for dematerialisation/rematerialisation for quarter ended 30 September 2026.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf2d5eac-78ac-4d3c-b5e3-df5225ec1585.pdf"
+        },
+        {
+          "title": "Quarterly Update - Q2 FY 2026-27\n\n          \n            7 Oct - Q2 FY2027 revenue rose over 26%; 546 showrooms, 12 Kalyan, 9 Candere launches, debt zero.",
+          "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=43b1b5d9-c275-4673-87fd-9ad6955815e9.pdf"
+        }
+      ]
+    },
+    "source_url": "https://www.screener.in/company/KALYANKJIL/consolidated/"
+  }
+}
